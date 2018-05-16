@@ -1,9 +1,9 @@
+//main class
 
 package myTests;
 
 import java.util.Random;
 import java.util.Scanner;
-import myTests.QuickSort;
 
 public class homeWork {
     public static void main(String args[]) throws Exception{
