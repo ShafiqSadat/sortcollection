@@ -5,7 +5,7 @@ package myTests;
 import java.util.Random;
 import java.util.Scanner;
 
-public class mainClass {
+public class MainClass {
     public static void main(String args[]) throws Exception{
         try{
         QuickSort qs = new QuickSort();
