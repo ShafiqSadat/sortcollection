@@ -1,7 +1,7 @@
 
 package myTests;
 
-public class mergeSort {
+public class MergeSort {
     long start = System.currentTimeMillis();
     private int[] array;
     private int[] tempMergArr;
